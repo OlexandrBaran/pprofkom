@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/profkom%20%20/static/css/main.9066342d.chunk.css",
+    "main.js": "/profkom%20%20/static/js/main.6762d99e.chunk.js",
+    "main.js.map": "/profkom%20%20/static/js/main.6762d99e.chunk.js.map",
+    "runtime-main.js": "/profkom%20%20/static/js/runtime-main.c2c44e1a.js",
+    "runtime-main.js.map": "/profkom%20%20/static/js/runtime-main.c2c44e1a.js.map",
+    "static/js/2.7607f477.chunk.js": "/profkom%20%20/static/js/2.7607f477.chunk.js",
+    "static/js/2.7607f477.chunk.js.map": "/profkom%20%20/static/js/2.7607f477.chunk.js.map",
+    "index.html": "/profkom%20%20/index.html",
+    "static/css/main.9066342d.chunk.css.map": "/profkom%20%20/static/css/main.9066342d.chunk.css.map",
+    "static/js/2.7607f477.chunk.js.LICENSE.txt": "/profkom%20%20/static/js/2.7607f477.chunk.js.LICENSE.txt",
+    "static/media/_logo_z_fonom.a96d2b15.png": "/profkom%20%20/static/media/_logo_z_fonom.a96d2b15.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2c44e1a.js",
+    "static/js/2.7607f477.chunk.js",
+    "static/css/main.9066342d.chunk.css",
+    "static/js/main.6762d99e.chunk.js"
+  ]
+}
